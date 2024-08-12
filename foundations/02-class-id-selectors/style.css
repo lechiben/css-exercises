@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgb(227, 158, 182);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.divided-by-three {
+    font-size: 24px; 
+}
+
+#even-one{
+    color: blue;
+    font-size: 36px;
+}
+
+#even-two{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
