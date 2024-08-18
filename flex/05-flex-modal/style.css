@@ -10,7 +10,7 @@ body {
   background: #aaa;
   color: #333;
   /* I'll give you this one for free lol */
-  display: flex;
+  display: flex; /* make cointainer box work too */
   align-items: center;
   justify-content: center;
 }
